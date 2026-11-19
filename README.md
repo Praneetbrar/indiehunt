@@ -6,6 +6,20 @@
 
 ---
 
+
+## For AI agents
+
+Use the live site, not this README, for current prices and API behavior.
+
+- Site index: https://indiehunt.io/llms.txt
+- Pricing: https://indiehunt.io/pricing.md (Free is $0, Premium is $29 one-time)
+- Developers: https://indiehunt.io/developers
+- OpenAPI: https://indiehunt.io/openapi.json
+- Auth: https://indiehunt.io/auth.md
+- Product MCP: https://indiehunt.io/mcp
+- Docs MCP: https://indiehunt.io/mcp/docs
+- This repo: `AGENTS.md`, `plugin.json`, `mcp.json`, and `skills/`
+
 ## 🌟 Live Platform
 
 **Visit:** [https://indiehunt.io](https://indiehunt.io)

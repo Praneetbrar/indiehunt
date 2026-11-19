@@ -1,0 +1,21 @@
+{
+  "name": "indiehunt-cli",
+  "version": "1.0.0",
+  "description": "Official command-line client for the IndieHunt public API.",
+  "type": "module",
+  "bin": {
+    "indiehunt": "./bin.js"
+  },
+  "files": ["bin.js", "README.md"],
+  "homepage": "https://indiehunt.io",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Praneetbrar/indiehunt.git",
+    "directory": "packages/indiehunt-cli"
+  },
+  "keywords": ["indiehunt", "cli", "api", "launches"],
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}

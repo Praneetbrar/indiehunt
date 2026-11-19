@@ -1,0 +1,15 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "indiehunt",
+  "version": "1.0.0",
+  "description": "IndieHunt agent plugin for weekly AI and indie SaaS launch discovery, pricing, and docs.",
+  "author": {
+    "name": "IndieHunt",
+    "email": "hi@indiehunt.io",
+    "url": "https://indiehunt.io"
+  },
+  "homepage": "https://indiehunt.io/developers",
+  "repository": "https://github.com/Praneetbrar/indiehunt",
+  "license": "MIT",
+  "keywords": ["indiehunt", "launches", "mcp", "agents"]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "indiehunt-sdk",
+  "version": "1.0.0",
+  "description": "Official JavaScript client for the IndieHunt public API.",
+  "type": "module",
+  "main": "index.js",
+  "exports": {
+    ".": "./index.js"
+  },
+  "files": ["index.js", "README.md"],
+  "homepage": "https://indiehunt.io",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Praneetbrar/indiehunt.git",
+    "directory": "packages/indiehunt-sdk"
+  },
+  "bugs": {
+    "url": "https://github.com/Praneetbrar/indiehunt/issues"
+  },
+  "keywords": ["indiehunt", "sdk", "api", "launches"],
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}

@@ -1,0 +1,11 @@
+# IndieHunt
+
+IndieHunt (https://indiehunt.io) is a weekly launch platform for AI products and indie SaaS.
+
+- Public reads need no API key: GET /api/v1/projects, /api/v1/search, /api/v1/categories, /api/v1/weeks/current.
+- The OpenAPI document is /openapi.json. Agent auth is /auth.md.
+- Product MCP is https://indiehunt.io/mcp. Docs MCP is https://indiehunt.io/mcp/docs.
+- Do not invent a paid nofollow plan. Free is $0. Premium is $29 one-time.
+- New free tools go only in app/libs/free-tools.js. Do not add individual tool links to the header or footer.
+- Do not commit .env files or secrets.
+- Prefer Markdown exports (Accept: text/markdown or a .md URL) over scraping HTML.

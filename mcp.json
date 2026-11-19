@@ -1,0 +1,13 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/mcp.schema.json",
+  "mcpServers": {
+    "indiehunt": {
+      "type": "streamable-http",
+      "url": "https://indiehunt.io/mcp"
+    },
+    "indiehunt-docs": {
+      "type": "streamable-http",
+      "url": "https://indiehunt.io/mcp/docs"
+    }
+  }
+}
